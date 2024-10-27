@@ -714,3 +714,13 @@ footer{
   display:flex;
   gap:1rem;
 }
+
+.fa-leetcode {
+  background-image: url(images/projects/leetcode.png);
+  width: 58px;
+  height: 32px;
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  transition: filter 0.3s ease;
+}
