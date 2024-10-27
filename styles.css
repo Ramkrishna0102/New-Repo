@@ -724,3 +724,9 @@ footer{
   background-repeat: no-repeat;
   transition: filter 0.3s ease;
 }
+
+  .logo-text {
+    font-size: 2em; 
+    color: #4e45d5;
+    font-weight: bold;
+  }
